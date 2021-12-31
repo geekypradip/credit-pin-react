@@ -1,2 +1,2 @@
-# credit-pin-react
+# video-graph
 Created with CodeSandbox
